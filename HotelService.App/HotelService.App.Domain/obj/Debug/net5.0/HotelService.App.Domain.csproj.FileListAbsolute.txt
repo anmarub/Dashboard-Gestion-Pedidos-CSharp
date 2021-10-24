@@ -1,0 +1,12 @@
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\bin\Debug\net5.0\HotelService.App.Domain.deps.json
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\bin\Debug\net5.0\HotelService.App.Domain.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\bin\Debug\net5.0\ref\HotelService.App.Domain.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\bin\Debug\net5.0\HotelService.App.Domain.pdb
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.csproj.AssemblyReference.cache
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.AssemblyInfoInputs.cache
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.AssemblyInfo.cs
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\ref\HotelService.App.Domain.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Domain\obj\Debug\net5.0\HotelService.App.Domain.pdb

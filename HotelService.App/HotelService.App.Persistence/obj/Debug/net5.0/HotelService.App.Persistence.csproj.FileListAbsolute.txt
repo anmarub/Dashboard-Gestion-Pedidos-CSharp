@@ -1,0 +1,17 @@
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.csproj.AssemblyReference.cache
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.AssemblyInfoInputs.cache
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.AssemblyInfo.cs
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Persistence.deps.json
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Persistence.runtimeconfig.json
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Persistence.runtimeconfig.dev.json
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Persistence.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\ref\HotelService.App.Persistence.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Persistence.pdb
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Domain.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\bin\Debug\net5.0\HotelService.App.Domain.pdb
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\ref\HotelService.App.Persistence.dll
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.pdb
+C:\Users\andres.rubiano\OneDrive\Project\HotelServices\HotelService.App\HotelService.App.Persistence\obj\Debug\net5.0\HotelService.App.Persistence.genruntimeconfig.cache

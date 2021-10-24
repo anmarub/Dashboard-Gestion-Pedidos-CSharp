@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "72.167.223.84",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "serverOnline",
+            "database": "hotelser_nissi",
+            "username": "hotelser_new",
+            "password": "eg9FBIyR"
+        }
+    ]
+}
